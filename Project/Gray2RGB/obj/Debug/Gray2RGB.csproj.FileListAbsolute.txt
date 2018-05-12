@@ -1,0 +1,9 @@
+D:\文件\Computer Graphices\Project\Gray2RGB\bin\Debug\Gray2RGB.exe.config
+D:\文件\Computer Graphices\Project\Gray2RGB\bin\Debug\Gray2RGB.exe
+D:\文件\Computer Graphices\Project\Gray2RGB\bin\Debug\Gray2RGB.pdb
+D:\文件\Computer Graphices\Project\Gray2RGB\obj\Debug\Gray2RGB.csprojResolveAssemblyReference.cache
+D:\文件\Computer Graphices\Project\Gray2RGB\obj\Debug\Gray2RGB.Form1.resources
+D:\文件\Computer Graphices\Project\Gray2RGB\obj\Debug\Gray2RGB.Properties.Resources.resources
+D:\文件\Computer Graphices\Project\Gray2RGB\obj\Debug\Gray2RGB.csproj.GenerateResource.Cache
+D:\文件\Computer Graphices\Project\Gray2RGB\obj\Debug\Gray2RGB.exe
+D:\文件\Computer Graphices\Project\Gray2RGB\obj\Debug\Gray2RGB.pdb
