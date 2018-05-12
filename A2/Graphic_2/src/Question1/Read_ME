@@ -1,0 +1,45 @@
+READ ME
+Graph Assignment 2 Test.Java 
+Pandering a 3D Cube, with function to Scale, move, rotate and camera control functions
+
+Default: 
+
+parallel view
+object rotate X by 30 unit 
+object rotate y by 30 unit 
+
+Reset: 
+
+Home (key) 								-	Reset The Cube to Deault
+
+
+View options (use Keyboard):
+
+V	-	parallel view
+B	-	perspective view
+
+
+FUNCTION (Object):
+
+Mouse Wheel								-	Scaling  + / -
+Mouse click &Dragged					-	Move object on the plane
+N  / M 									- 	Move object in Z direction + / -
+Arrow Key up / down / left / right 		-	Rotation of the Object on X & Y axis 
+Page_Up / Page_Down 					-	Rotation of the Object on Z axis
+
+FUNCTION (Camera):
+
+W / S									-	Change camera position - X axis  + / -
+D / A									-	Change camera position - Y axis  + / -
+Z / X 									-	Change camera position - Z axis  + / -
+
+I / K									-	Rotation of camera position - X axis  + / -
+L / J									-	Rotation of camera position - Y axis  + / -
+U / O 									-	Rotation of camera position - Z axis  + / -
+
+
+
+
+
+
+
